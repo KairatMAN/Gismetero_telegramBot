@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-from  My_telegram_bots.data_generator import *
+from  main.data_generator import *
 
 Token = "5148276292:AAEgppprtEsvHS0XKMq0KsHMGvjjODeqB1k"
 bot = telebot.TeleBot(Token)
