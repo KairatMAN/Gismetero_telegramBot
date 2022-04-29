@@ -1,6 +1,6 @@
 import requests
 import datetime
-from config import *
+from main.config import *
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
